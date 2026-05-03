@@ -49,14 +49,14 @@
 folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/main/profile-3d-contrib
 -->
 
-<p align="center"><b>Git block (voxel)</b></p>
+<!-- <p align="center"><b>Git block (voxel)</b></p>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/main/profile-3d-contrib/profile-gitblock.svg"
     alt="3D git block contribution calendar"
     width="100%"
   />
-</p>
+</p> -->
 
 <p align="center"><b>Night rainbow</b></p>
 <p align="center">
@@ -103,7 +103,8 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=amirmatinjamshidi-rgb&icon=0&color=6" alt="Profile views" />
-  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=amirmatinjamshidi-rgb&label=Profile+views&color=blueviolet&style=for-the-badge"
+    alt="Profile views"
+  />
 </p>
