@@ -1,9 +1,8 @@
 <div align="center">
 
-
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&color=0%3A0b1020%2C50%3A4c1d95%2C100%3A0e7490&height=210&section=header&text=Matin%20Jamshidi&fontSize=44&fontColor=fff&stroke=000000&strokeWidth=1&fontAlignY=36&desc=Next.js%20%7C%20TypeScript%20%7C%20Turning%20ideas%20into%20shipped%20code&descSize=15&descAlign=52&descColor=a5b4fc&animation=twinkling"
-  alt="Header"
+  src="https://capsule-render.vercel.app/api?type=venom&color=0%3A0b1020%2C50%3A4c1d95%2C100%3A0e7490&height=210&section=header&text=Matin%20Jamshidi&fontSize=44&fontColor=fff&stroke=000000&strokeWidth=1&fontAlignY=36&desc=Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Shipped%20ideas&descSize=15&descAlign=52&descColor=a5b4fc&animation=twinkling"
+  alt="Profile header"
   width="100%"
 />
 
@@ -11,11 +10,11 @@
 
 ## 💫 About me
 
-🔭 I’m working on a new **Next.js** project  
-🤝 I like turning ideas into **real, shipped** products  
+🔭 Building a new **Next.js** project  
+🤝 Turning ideas into **real products**  
 🌱 Learning **TypeScript** & **JavaScript**  
-💬 Ask me about my code — I’ll talk for hours  
-⚡ I’m always happy to build new features
+💬 Ask me about my code — I’ll yap for hours  
+⚡ I love shipping **new features**
 
 ## 🌐 Socials
 
@@ -34,85 +33,67 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🧊 3D contribution (isometric)
 
+<!-- 
+   raw.githubusercontent.com links 
+folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/main/profile-3d-contrib
+-->
 
+<p align="center"><b>Git block (voxel)</b></p>
 <p align="center">
-  <b>“Git block” (voxel / 3D blocks)</b><br/>
   <img
-    src="./profile-3d-contrib/profile-gitblock.svg"
-    alt="3D block contribution calendar"
+    src="https://raw.githubusercontent.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/main/profile-3d-contrib/profile-gitblock.svg"
+    alt="3D git block contribution calendar"
     width="100%"
   />
 </p>
 
+<p align="center"><b>Night rainbow</b></p>
 <p align="center">
-  <b>Neon night (isometric + color)</b><br/>
   <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    src="https://raw.githubusercontent.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/main/profile-3d-contrib/profile-night-rainbow.svg"
     alt="3D night rainbow contribution calendar"
     width="100%"
   />
 </p>
 
-## 🏆 Ranks, trophies & points (gamified)
+## 🏆 Trophies
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=amirmatinjamshidi-rgb&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=false)
+
+## 🔥 Streak
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=amirmatinjamshidi-rgb&theme=onedark&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7"
-    alt="GitHub profile trophies"
-    width="100%"
-  />
-</p>
-
-## 🔥 Streak (dark / contrasty)
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=amirmatinjamshidi-rgb&theme=tokyonight&hide_border=false&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&ring=22d3ee&fire=22d3ee&currStreakLabel=Current%20streak&sideLabels=22d3ee&dates=94a3b8"
+    src="https://streak-stats.demolab.com/?user=amirmatinjamshidi-rgb&theme=tokyonight&hide_border=false&border_radius=12"
     alt="GitHub streak stats"
   />
 </p>
 
-## 📊 GitHub summary cards (neon night)
-
-
+## 📊 Summary cards
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirmatinjamshidi-rgb&theme=tokyonight"
-    alt="Profile details"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirmatinjamshidi-rgb&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirmatinjamshidi-rgb&theme=tokyonight"
-    alt="Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirmatinjamshidi-rgb&theme=tokyonight&utcOffset=3"
-    alt="Productive time"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirmatinjamshidi-rgb&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirmatinjamshidi-rgb&theme=tokyonight&utcOffset=3" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirmatinjamshidi-rgb&theme=tokyonight"
-    alt="Repos per language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirmatinjamshidi-rgb&theme=tokyonight"
-    alt="Most commit language"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirmatinjamshidi-rgb&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirmatinjamshidi-rgb&theme=tokyonight" alt="Most commit language" />
 </p>
 
 ## ✍️ Random dev quote
