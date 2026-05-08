@@ -1,11 +1,15 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&color=0%3A0b1020%2C50%3A4c1d95%2C100%3A0e7490&height=210&section=header&text=AmirMatin%20Jamshidi&fontSize=44&fontColor=fff&stroke=000000&strokeWidth=1&fontAlignY=36&desc=Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Shipped%20ideas&descSize=15&descAlign=52&descColor=a5b4fc&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=venom&color=0%3A0b1020%2C50%3A4c1d95%2C100%3A0e7490&height=210&section=header&text=AmirMatin%20Jamshidi&fontSize=44&fontColor=fff&stroke=000000&strokeWidth=1&descSize=15&descAlign=52&descColor=a5b4fc&animation=twinkling"
   alt="Profile header"
   width="100%"
 />
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=FrontEnd+Developer+%F0%9F%9A%80;javaScript+%7C+TypeScript+%7C;Building+UI+%Libraries+System+Tools;Open+Source+Contributor" />
+</p>
 
+---
 </div>
 
 ## 💫 About me
