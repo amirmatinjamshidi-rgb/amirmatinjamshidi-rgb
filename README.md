@@ -50,6 +50,13 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
 ## 🏆 Trophies
 
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=amirmatinjamshidi-rgb&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=false)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/artart222/artart222/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 🔥 Streak
 
