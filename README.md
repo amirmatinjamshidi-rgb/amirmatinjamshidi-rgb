@@ -6,7 +6,7 @@
   width="100%"
 />
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=FrontEnd+Developer+%F0%9F%9A%80;javaScript+%7C+TypeScript+%7C;Building+UI+%Libraries+System+Tools;Open+Source+Contributor" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=FrontEnd+Developer+%F0%9F%9A%80;javaScript+%7C+TypeScript;Building+UI+Auth+libraries;Open+Source+Contributor" />
 </p>
 
 ---
