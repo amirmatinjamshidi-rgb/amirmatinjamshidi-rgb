@@ -59,7 +59,7 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
 
 ## 🏆 Trophies
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=amirmatinjamshidi-rgb&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=amirmatinjamshidi-rgb&theme=tokyonight)
 
 
 ## 🔥 Streak
