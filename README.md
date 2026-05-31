@@ -57,14 +57,6 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
   />
 </p>
 
-## 🏆 Developer Rank
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=amirmatinjamshidi-rgb&show_icons=true&theme=tokyonight&rank_icon=github"
-    width="60%"
-  />
-</p>
 ## 🔥 Streak
 
 <p align="center">
