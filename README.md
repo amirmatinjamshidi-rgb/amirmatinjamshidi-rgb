@@ -57,11 +57,21 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
   />
 </p>
 
-## 🏆 Trophies
+## 🏆 GitHub Achievements
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amirmatinjamshidi-rgb&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/amirmatinjamshidi-rgb?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20My-GitHub%20Achievements-gold?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-
+<p align="center">
+  ⭐ Pull Shark <br/>
+  🧠 Galaxy Brain <br/>
+  ⚡ Quickdraw <br/>
+  🚀 YOLO <br/>
+  🤝 Pair Extraordinaire
+</p>
 ## 🔥 Streak
 
 <p align="center">
