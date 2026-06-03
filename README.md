@@ -82,6 +82,12 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirmatinjamshidi-rgb&theme=tokyonight" alt="Most commit language" />
 </p>
 
+<h2> My Trophies  <img width ='20px' src ='https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif'> </h2>
+
+<div align="center" >
+
+[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=amirmatinjamshidi-rgb&theme=onedark&margin-w=4&row=1&column=9)](https://github.com/top-ace-friend)
+</div>
 ## ✍️ Random dev quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
