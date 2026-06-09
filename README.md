@@ -88,7 +88,7 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
 
 [![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=amirmatinjamshidi-rgb&theme=onedark&margin-w=4&row=1&column=9)](https://github.com/top-ace-friend)
 </div>
-< h2>✍️ Random dev quote </h2>
+<!-- < h2 >✍️ Random dev quote </h2> -->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
