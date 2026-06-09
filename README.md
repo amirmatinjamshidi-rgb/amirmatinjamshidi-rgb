@@ -82,7 +82,7 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirmatinjamshidi-rgb&theme=tokyonight" alt="Most commit language" />
 </p>
 
-<h2> My Trophies  <img width ='20px' src ='https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif'> </h2>
+## My Trophies  <img width ='20px' src ='https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif'>
 
 <div align="center" >
 
