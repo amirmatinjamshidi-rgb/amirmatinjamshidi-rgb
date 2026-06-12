@@ -77,10 +77,10 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirmatinjamshidi-rgb&theme=tokyonight&utcOffset=3" alt="Productive time" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirmatinjamshidi-rgb&theme=tokyonight" alt="Repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirmatinjamshidi-rgb&theme=tokyonight" alt="Most commit language" />
-</p>
+</p> -->
 
 ## My Trophies  <img width ='20px' src ='https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif'>
 
