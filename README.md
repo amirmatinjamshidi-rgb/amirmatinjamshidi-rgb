@@ -57,14 +57,6 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
   />
 </p>
 
-## 🔥 Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=amirmatinjamshidi-rgb&theme=tokyonight&hide_border=false&border_radius=12"
-    alt="GitHub streak stats"
-  />
-</p>
 
 ## 📊 Summary cards
 
@@ -74,7 +66,7 @@ folder : https://github.com/amirmatinjamshidi-rgb/amirmatinjamshidi-rgb/tree/mai
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirmatinjamshidi-rgb&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirmatinjamshidi-rgb&theme=tokyonight&utcOffset=3" alt="Productive time" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirmatinjamshidi-rgb&theme=tokyonight&utcOffset=3" alt="Productive time" /> -->
 </p>
 
 <!-- <p align="center">
