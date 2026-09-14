@@ -1,8 +1,6 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=venom&color=0%3A0b1020%2C50%3A4c1d95%2C100%3A0e7490&height=210&section=header&text=AmirMatin%20Jamshidi&fontSize=44&fontColor=fff&stroke=000000&stroke[...]
-  alt="Profile header"
+<img src="https://capsulerender.vercel.app/apitype=venom&color=0%3A0b1020%2C50%3A4c1d95%2C100%3A0e7490&height=210&section=header&text=AmirMatin%20Jamshidi&fontSize=44&fontColor=fff&stroke=000000&stroke[...]alt="Profile header"
   width="100%"
 />
 <p align="center">
