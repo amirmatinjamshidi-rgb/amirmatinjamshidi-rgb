@@ -1,11 +1,12 @@
 <div align="center">
 
-<img 
+<!--  <img 
   src="https://capsulerender.vercel.app/api?type=venom&color=0%3A0b1020%2C50%3A4c1d95%2C100%3A0e7490&height=210&section=header&text=AmirMatin%20Jamshidi&fontSize=44&fontColor=fff&stroke=000000&stro[...] width="100%" > 
 
 
 
 </img>
+-->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=FrontEnd+Developer+%F0%9F%9A%80;javaScript+%7C+TypeScript;[...]
 </p>
